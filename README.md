@@ -2,9 +2,10 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-Active-success)
-<img width="384" height="192" alt="image" src="https://github.com/user-attachments/assets/0d405894-30d5-4869-93cf-42e6cb34b34c" />
+
 
 **Gemini 3 Pro 绘图工作台（全能修复版）** 是一个基于 Web 的轻量级、高性能 AI 绘图客户端。  
+<img width="384" height="192" alt="image" src="https://github.com/user-attachments/assets/0d405894-30d5-4869-93cf-42e6cb34b34c" />
 它专门面向 Google Gemini 多模态模型（如 `gemini-3-pro-image-preview`），在原版基础上做了深度增强：
 
 - ✅ 保留原有 **多会话绘图工作台**、**图片切片工厂** 等能力  
